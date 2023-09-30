@@ -1,0 +1,12 @@
+{
+  "name": "@oasui/oasui",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.7.0",
+    "lerna": "^7.3.0",
+    "typescript": "^5.2.2"
+  }
+}
